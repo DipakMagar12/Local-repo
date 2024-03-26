@@ -4,8 +4,8 @@ export default class hello extends Component {
   render() {
     return (
       <div>
-      <div>hello</div>
-      <h2>Heiii</h2>
+      
+      <p>Hello I am F1</p>
       </div>
     )
   }
